@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/ConexNeg-Project/static/css/main.0af64a0c.css",
+    "main.js": "/ConexNeg-Project/static/js/main.8c66d8b8.js",
+    "static/js/453.a14782d0.chunk.js": "/ConexNeg-Project/static/js/453.a14782d0.chunk.js",
+    "static/media/team.png": "/ConexNeg-Project/static/media/team.8567553c3a6d151cd008.png",
+    "static/media/mediacenterImge.png": "/ConexNeg-Project/static/media/mediacenterImge.475248457c5f9d4d956d.png",
+    "static/media/team2.png": "/ConexNeg-Project/static/media/team2.d4d35989e775c31d8610.png",
+    "static/media/advertbg.png": "/ConexNeg-Project/static/media/advertbg.84a1f32dc73778d431e7.png",
+    "static/media/team3.png": "/ConexNeg-Project/static/media/team3.c8376f4b607f913d238f.png",
+    "static/media/team1.png": "/ConexNeg-Project/static/media/team1.be00ec7ff07a1bf86ff6.png",
+    "static/media/mobile.png": "/ConexNeg-Project/static/media/mobile.d6c6d844c167d9380b57.png",
+    "static/media/advert.png": "/ConexNeg-Project/static/media/advert.b50015a28e7a21d88aab.png",
+    "static/media/logo.png": "/ConexNeg-Project/static/media/logo.41974e3cf5150eede667.png",
+    "static/media/logohome.png": "/ConexNeg-Project/static/media/logohome.7872dfd4ac133dd74e55.png",
+    "static/media/logohome2.png": "/ConexNeg-Project/static/media/logohome2.e4cd54027f0c981903c1.png",
+    "static/media/farmconnectlogo.png": "/ConexNeg-Project/static/media/farmconnectlogo.1ff46ed3d609b5c33210.png",
+    "static/media/appstoreLogo2.png": "/ConexNeg-Project/static/media/appstoreLogo2.5cafaa8156c9d0545441.png",
+    "static/media/appstoreLogo.png": "/ConexNeg-Project/static/media/appstoreLogo.c1bd4f11885a706a80b2.png",
+    "static/media/connectmarketLogo2.png": "/ConexNeg-Project/static/media/connectmarketLogo2.0f0087c026b4ca04e196.png",
+    "static/media/readmorebtn.png": "/ConexNeg-Project/static/media/readmorebtn.4eab6624430b5150e747.png",
+    "static/media/instagramicon.png": "/ConexNeg-Project/static/media/instagramicon.ed301ba0b1c09d7fe510.png",
+    "static/media/twittericon.png": "/ConexNeg-Project/static/media/twittericon.be475c57ea435491484c.png",
+    "static/media/gb.png": "/ConexNeg-Project/static/media/gb.e51dbb4c65683fa15257.png",
+    "static/media/facebookicon.png": "/ConexNeg-Project/static/media/facebookicon.1471eb7bb9406a1d49de.png",
+    "static/media/arrow-right.png": "/ConexNeg-Project/static/media/arrow-right.a92e19e6366eb36d4b07.png",
+    "index.html": "/ConexNeg-Project/index.html",
+    "main.0af64a0c.css.map": "/ConexNeg-Project/static/css/main.0af64a0c.css.map",
+    "main.8c66d8b8.js.map": "/ConexNeg-Project/static/js/main.8c66d8b8.js.map",
+    "453.a14782d0.chunk.js.map": "/ConexNeg-Project/static/js/453.a14782d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0af64a0c.css",
+    "static/js/main.8c66d8b8.js"
+  ]
+}
