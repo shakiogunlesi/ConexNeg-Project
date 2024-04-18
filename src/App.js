@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <Routes>
-        <Route path="/ConexNeg-Project" element={<HomePage />} />
+        <Route path="/" element={<HomePage />} />
         <Route path="/landingPage" element={<LandingPage />} />
       </Routes>
     </>
