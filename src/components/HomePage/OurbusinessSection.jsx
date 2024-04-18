@@ -12,7 +12,7 @@ function OurbusinessSection() {
             <div className="md:px-[200px] px-8 rounded-b-[30px] pb-[100px] bg-grayBg z-40">
                 <h1 className='text-[54px] font-medium text-textC500 mt-[70px] mb-[70px]'>Our Business</h1>
                 <div className='flex flex-row items-center justify-center text-center'>
-                    <div className='rounded-[20px] bg-white pt-[40px] px-10 w-[457px] h-[300px]'>
+                    <div className='rounded-[20px] bg-white pt-[40px] md:px-10 px-6 w-[457px] h-[300px]'>
                         <div className='flex text-center justify-center'>
                             <img 
                             src={FarmconnectLogo}
@@ -34,7 +34,7 @@ function OurbusinessSection() {
                     </div>
                 </div>
                 <div className='flex flex-row items-center justify-center text-center mt-16'>
-                    <div className='rounded-[20px] bg-white pt-[40px] px-10 w-[457px] h-[300px]'>
+                    <div className='rounded-[20px] bg-white pt-[40px] md:px-10 px-6 w-[457px] h-[300px]'>
                         <div className='flex text-center justify-center'>
                             <img 
                             src={ConnectMartLogo}
@@ -56,7 +56,7 @@ function OurbusinessSection() {
                     </div>
                 </div>
                 <div className='flex flex-row items-center justify-center text-center mt-16'>
-                    <div className='rounded-[20px] bg-white pt-[40px] px-10 w-[457px] h-[300px]'>
+                    <div className='rounded-[20px] bg-white pt-[40px] md:px-10 px-6 w-[457px] h-[300px]'>
                         <div className='flex text-center justify-center'>
                             <h2 className='text-[35px] font-medium text-textC500'>Swift Logistics</h2>
                         </div>
