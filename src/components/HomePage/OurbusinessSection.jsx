@@ -20,14 +20,14 @@ function OurbusinessSection() {
                             className='w-[300px] h-[46px]'
                             />
                         </div>
-                        <p className='text-[20px] font-normal py-10  text-center'>Freshness delivered. From source to doorstep, enjoy unmatched convenience and quality.</p>
+                        <p className='text-[20px] font-normal md:py-10 py-4  text-center'>Freshness delivered. From source to doorstep, enjoy unmatched convenience and quality.</p>
                         <di className="flex text-center justify-center">
                             <img 
                             src={ReadmoreBtn}
                             alt="readmore"
                             className='w-[40px] h-[40px]'
                             />
-                            <p className='ml-2 pt-3'>
+                            <p className='ml-2 pt-2'>
                                 <Link to="/" className='text-textC500 text-[20px] font-normal'> Learn more </Link>
                             </p>
                         </di>
@@ -42,14 +42,14 @@ function OurbusinessSection() {
                             className='w-[300px] h-[46px]'
                             />
                         </div>
-                        <p className='text-[20px] font-normal py-8  text-center'>Building strong connections. Streamline your business operations with our user-friendly B2B platform.</p>
+                        <p className='text-[20px] font-normal md:py-8 py-4  text-center'>Building strong connections. Streamline your business operations with our user-friendly B2B platform.</p>
                         <di className="flex text-center justify-center">
                             <img 
                             src={ReadmoreBtn}
                             alt="readmore"
                             className='w-[40px] h-[40px]'
                             />
-                            <p className='ml-2 pt-3'>
+                            <p className='ml-2 pt-2'>
                                 <Link to="/landingPage" className='text-textC500 text-[20px] font-normal'> Learn more </Link>
                             </p>
                         </di>
@@ -60,14 +60,14 @@ function OurbusinessSection() {
                         <div className='flex text-center justify-center'>
                             <h2 className='text-[35px] font-medium text-textC500'>Swift Logistics</h2>
                         </div>
-                        <p className='text-[20px] font-normal py-8  text-center'>Your trusted delivery partner. Ensuring swift and reliable movement of goods, wherever they need to go.</p>
+                        <p className='text-[20px] font-normal md:py-8 py-4  text-center'>Your trusted delivery partner. Ensuring swift and reliable movement of goods, wherever they need to go.</p>
                         <di className="flex text-center justify-center">
                             <img 
                             src={ReadmoreBtn}
                             alt="readmore"
                             className='w-[40px] h-[40px]'
                             />
-                            <p className='ml-2 pt-3'>
+                            <p className='ml-2 pt-2'>
                                 <Link to="/" className='text-textC500 text-[20px] font-normal'> Learn more </Link>
                             </p>
                         </di>

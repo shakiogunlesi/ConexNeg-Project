@@ -5,7 +5,7 @@ import '../../index.css';
 function Herohome() {
     return (
         <div className="md:px-[200px] px-8">
-            <h1 className='md:text-[54px] text-[40px] font-medium text-textC500 mt-[50px]'>ConexNeg: Connecting Your World, Freshly Delivered</h1>
+            <h1 className='md:text-[54px] text-[40px] font-medium text-textC500 mt-[50px] leading-[35px]'>ConexNeg: Connecting Your World, Freshly Delivered</h1>
             <div className='flex gap-4 flex-col md:flex-row w-full pt-19'>
                 <div className='md:w-1/2 md:pr-8'>
                     <p className='text-[28px] leading-[35px]'>ConexNeg is your gateway to a vibrant network, seamlessly connecting people and products across the supply chain. We empower businesses and individuals with innovative solutions that prioritize convenience and efficiency. Whether you're a farmer seeking wider reach for your fresh produce, a retailer looking to streamline your inventory management, or a consumer seeking high-quality goods delivered straight to your doorstep, ConexNeg is here to bridge the gap. Our user-friendly platform fosters connections and simplifies processes, ensuring a smooth and satisfying experience for everyone involved.</p>
