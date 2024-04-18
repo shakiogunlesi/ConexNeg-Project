@@ -13,7 +13,7 @@ function heroSection() {
     <div className="flex flex-row md:px-[60px] pt-8 relative mb-[70px]">
       <div className='flex gap-4  flex-col md:flex-row w-full pt-19'>
         <div className='text-left px-6 md:pt-20'>
-          <h1 className='text-[48px] font-bold mb-4 leading-[50px]'>The smartest way
+          <h1 className='md:text-[48px] text-[38px] font-bold mb-4 leading-[50px]'>The smartest way
           <br />to growing trade wholesale</h1>
           <p className='text-[22px]'>ConnectMart is a B2B marketplace that connects small businesses with <br />wholesalers and brands in one place to enabling a seamless, insightful <br />and bold way of doing businesses</p>
         
