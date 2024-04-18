@@ -1,4 +1,4 @@
-import mediacenterImge from '../assets/images/mediacenterImge.png';
+// import mediacenterImge from '../assets/images/mediacenterImge.png';
 import team1Img from '../assets/images/team1.png';
 import team1Img2 from '../assets/images/team2.png';
 import team1Img3 from '../assets/images/team3.png';
@@ -9,7 +9,7 @@ import { Link } from 'react-router-dom';
 function  mediaCenterSection() {
     return (
         <section className="md:mt-[60px] md:p-20 sm:p-8 md:px-[100px]">
-            <div className="flex flex-row p-4 relative mb-[70px] border border-gray-300 rounded-lg">
+            {/* <div className="flex flex-row p-4 relative mb-[70px] border border-gray-300 rounded-lg">
                 <div className='flex gap-10 flex-col md:flex-row w-full pt-19'>
                     <div className="md:w-1/4 text-center flex item-center justify-center">
                         <img 
@@ -26,7 +26,7 @@ function  mediaCenterSection() {
                         </Button>
                     </div>
                 </div>
-            </div>
+            </div> */}
             <div className="md:mt-[200px] flex flex-row p-4 relative mb-[70px]">
                 <div className='flex gap-10 justify-between flex-col md:flex-row w-full pt-19'>
                     <div className='border border-gray-300 rounded-lg px-4'>
